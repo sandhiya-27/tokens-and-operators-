@@ -1,0 +1,12 @@
+#include <iostream>
+using namespace std;
+int main()
+{
+	// C++ program to find product of two numbers
+	
+	int x,y,product;
+	x=3.4,y=5.5;
+	product=3.4*5.5;
+	cout<<"Product of two numbers is " <<product;
+	return 0;
+}
